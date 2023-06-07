@@ -26,7 +26,7 @@ class Employer
             {
                 cin>>cbands[i];
             }
-            cout<<"How many Departements you want to enetr\n";
+            cout<<"How many Depts you want to enetr\n";
             int x;
             cin>>x;
             cout<<"Enter Department Names\n";
