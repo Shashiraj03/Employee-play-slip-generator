@@ -94,7 +94,7 @@ void Employer :: main_manu()
                 Remove_employee(emp_id);
                 break;
         case 4:
-                cout<<"Eneter Employee Id, which employee you want to Remove \n";
+                cout<<"Eneter Emp Id, which employee you want to Remove \n";
                 cin>>emp_id;
                 Search_employee(emp_id);
                 break;
