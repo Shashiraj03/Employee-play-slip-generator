@@ -29,7 +29,7 @@ class Employer
             cout<<"How many Departements you want to enetr\n";
             int x;
             cin>>x;
-            cout<<"Enter Department Names\n";
+            cout<<"Enter dept Names\n";
             getline(cin,cdept[0]);
             for(int i=0;i<x;i++)
             {
