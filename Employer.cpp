@@ -16,7 +16,7 @@ class Employer
         {
             cout<<"Enter Comapany Name\n";
             getline(cin,cname);
-            cout<<"Eneter Company Location\n";
+            cout<<"Eneter cmp Location\n";
             getline(cin,clocation);
             cout<<"How many Bands you want to enter\n";
             int n;
@@ -26,7 +26,7 @@ class Employer
             {
                 cin>>cbands[i];
             }
-            cout<<"How many Depts you want to enetr\n";
+            cout<<"How many Departements you want to enetr\n";
             int x;
             cin>>x;
             cout<<"Enter Department Names\n";
